@@ -1,0 +1,44 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 06/07/2022, 08:23:50 PM
+    Author     : admin
+*/
+
+
+
+.form-signin {
+    width: 100%;
+    max-width: 490px;
+    padding: 15px;
+    margin: auto;
+    background-color: white;
+    
+}
+.form-registro {
+    width: 100%;
+    max-width: 890px;
+    padding: 15px;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+}
+.form-signin .checkbox {
+    font-weight: 400;
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.text-ubicacion {
+    text-align: left;
+}
